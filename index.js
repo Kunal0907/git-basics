@@ -9,3 +9,11 @@ const sayHello = function () {
 const funcAdd = function () {
   console.log("Addition is: ", a9, b9);
 };
+
+const isAdults = function () {
+  if (age > 18) {
+    console.log("Adult");
+  } else {
+    console.log("Not Adults");
+  }
+};
