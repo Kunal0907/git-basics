@@ -17,3 +17,7 @@ const isAdults = function () {
     console.log("Not Adults");
   }
 };
+
+function johndoe() {
+  console.log("This is johns branch");
+}
